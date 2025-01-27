@@ -30,19 +30,19 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://github.com/Youssef-Hegazi/Youssef-Hegazi/blob/main/assets/icons8-excel.svg" height="40" alt="Excel logo"  />
-  <img width="12" />
-  <img src="https://github.com/Youssef-Hegazi/Youssef-Hegazi/blob/main/assets/icons8-power-bi-2021.svg" height="40" alt="PowerBi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+    <img width="12" />
+    <img src="https://github.com/Youssef-Hegazi/Youssef-Hegazi/blob/main/assets/icons8-excel.svg" height="40" alt="Excel logo"  />
+    <img width="12" />
+    <img src="https://github.com/Youssef-Hegazi/Youssef-Hegazi/blob/main/assets/icons8-power-bi-2021.svg" height="40" alt="PowerBi logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
@@ -58,6 +58,6 @@
 
 ###
 
-![Snake animation](https://github.com/ayyadcode/ayyadcode/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Youssef-Hegazi/Youssef-Hegazi/output/snake.svg" alt="Snake animation" />
 
 ###
